@@ -1,2 +1,2 @@
-# criptografia
+# Criptografia
 Algoritmos de criptografia Cifra de Cezar, Permuta e Vigenere
