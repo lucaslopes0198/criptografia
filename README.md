@@ -1,2 +1,3 @@
 # Criptografia
-Algoritmos de criptografia Cifra de Cezar, Permuta e Vigenere
+
+Encryption algorithms: Caesar Cipher, Permuta and Vigenere
