@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Cifra de Cezar</title>
+	<title>Caesar Cipher</title>
 </head>
 <body>
 	<form name ="cript" action="#" method="POST">
